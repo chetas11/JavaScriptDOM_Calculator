@@ -12,5 +12,5 @@
 
 #### Screenshot -
 
-![Screenshot](https://github.com/chetas11/HTML/blob/master/NewsPaper_Design/LargeDevice.png)
+![Screenshot](https://github.com/chetas11/JavaScriptDOM_Calculator/blob/master/Calculator.png)
 
